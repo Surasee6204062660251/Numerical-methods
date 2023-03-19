@@ -28,6 +28,7 @@
 ## 🧐 About <a name = "about"></a>
 
 This project is create caculator about numerical method.
-
+Presentation 
+https://youtu.be/ghNdzrovWI4
 
 
